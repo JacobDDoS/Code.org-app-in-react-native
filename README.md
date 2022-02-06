@@ -5,7 +5,7 @@ In AP CS I created a very basic app on code.org as apart of the curriculum. This
 * Navigation In React Native
 * Views, Text, Image, Styles, Buttons in React Native
 * Setting up a React Native Project
-
+* Running React Native apps on my own phone
 ___
 
 This project was a fun way to deepen my basic understanding of React Native
