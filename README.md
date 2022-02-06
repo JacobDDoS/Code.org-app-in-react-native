@@ -14,8 +14,7 @@ It should not be seen as a serious project
 ___
 
 ## Home Screen:
-### Note: The background of the app darkened when I used the snip tool so the C++ logo doesn't have a whiter background on the actual app
-![Home Screens side by side](https://user-images.githubusercontent.com/67520166/152694552-6eec0714-4131-4ed3-98c6-457f9b0fc185.png)
+![Home screens side by side](https://user-images.githubusercontent.com/67520166/152696730-5d9d0f58-4ee1-466b-a3a1-917813264b0f.png)
 ## Origins screen:
 ![Origin screens side by side](https://user-images.githubusercontent.com/67520166/152694792-b04c0ddd-05d7-4d7b-b27f-3ec3e0f3d1c5.png)
 ## What is it screen:
