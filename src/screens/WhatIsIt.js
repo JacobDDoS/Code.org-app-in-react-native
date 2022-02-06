@@ -1,9 +1,13 @@
 import React from 'react';
+import {
+  Text,
+  View,
+} from 'react-native';
 
 const WhatIsIt = () => {
-  return <div>
-      <h1>What is it!</h1>
-  </div>;
+  return <View>
+    <Text>WHATISIT!!</Text>
+  </View>
 };
 
 export default WhatIsIt;

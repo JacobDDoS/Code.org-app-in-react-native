@@ -4,10 +4,10 @@ import {
   View,
 } from 'react-native';
 
-const HowTo = () => {
+const Origins = () => {
   return <View>
-    <Text>HowTO!</Text>
+    <Text>Origins!</Text>
   </View>
 };
 
-export default HowTo;
+export default Origins;
