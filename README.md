@@ -8,7 +8,7 @@ In AP CS I created a very basic app on code.org as apart of the curriculum. This
 * Running React Native apps on my own phone
 ___
 
-This project was a fun way to deepen my basic understanding of React Native
+This project was a fun way to deepen my basic understanding of React Native;
 It should not be seen as a serious project
 
 ___
