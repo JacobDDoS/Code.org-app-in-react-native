@@ -28,5 +28,9 @@ export const styles = StyleSheet.create({
         fontWeight: '900',
         color: "white", 
         textAlign: 'center'
+    },
+    image: {
+        width: 220,
+        height: 240
     }
 })
